@@ -33,8 +33,7 @@ The dataset used in this project is the "Mall Customers" dataset, which contains
 
 1. Clone this repository:
     
-    git clone https://github.com/your-username/customer-segmentation-kmeans.git
-    cd customer-segmentation-kmeans
+    git clone https://github.com/buvan1234/PRODIGY_ML_02
     
 
 2. Create and activate a virtual environment (optional but recommended):
